@@ -10,9 +10,8 @@
 # GUILD LINKS
 
 <ul>
-    <li><b href="https://hypixel.net/threads/%E2%9D%80tokyo-guild%E2%9D%80-tokyo-new-guild-low-reqs-friendly.4095664/" target="_blank">GUILD FORUMS</b></li>
-    <li><b href="https://discord.gg/3xJYj4HZVa" target="_blank">GUILD DISCORD</b></li>
-    <li></li>
+    <li><b><a href="https://hypixel.net/threads/%E2%9D%80tokyo-guild%E2%9D%80-tokyo-new-guild-low-reqs-friendly.4095664/" target="_blank">GUILD FORUMS</a></b></li>
+    <li><b><a href="https://discord.gg/3xJYj4HZVa" target="_blank">GUILD DISCORD</a></b></li>
 </ul>
 
 # GUILD RANKS:
