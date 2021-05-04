@@ -1,15 +1,20 @@
 ![guild banner](/assets/images/banner/tokyo_banner.gif)
 # GUILD INFORMATION:
 <ul>
-    <li>guild tag: [<a href="https://plancke.io/hypixel/guild/name/Tokyo%20Guild" target=”_blank”>TOKYO</a>]</li>
+    <li>guild tag: [<a href="https://plancke.io/hypixel/guild/name/Tokyo%20Guild" target="_blank">TOKYO</a>]</li>
     <li>members: 93</li>
     <li>level: 10</li>
     <li>main games: bedwars, skywars, duels</li>
 </ul>
 
 # GUILD LINKS
-[**GUILD FORUMS:**](https://hypixel.net/threads/%E2%9D%80tokyo-guild%E2%9D%80-tokyo-new-guild-low-reqs-friendly.4095664/)
-[**GUILD DISCORD:**](https://discord.gg/3xJYj4HZVa)
+
+<ul>
+    <li><b href="https://hypixel.net/threads/%E2%9D%80tokyo-guild%E2%9D%80-tokyo-new-guild-low-reqs-friendly.4095664/" target="_blank">GUILD FORUMS</b></li>
+    <li><b href="https://discord.gg/3xJYj4HZVa" target="_blank">GUILD DISCORD</b></li>
+    <li></li>
+</ul>
+
 # GUILD RANKS:
 ![ranks card](/assets/images/ranks/ranks_1.gif)
 ![ranks card](/assets/images/ranks/ranks_2.gif)
