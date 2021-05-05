@@ -1,11 +1,11 @@
 ![guild banner](/assets/images/banner/tokyo_banner.gif)
 # GUILD INFORMATION:
-<ul>
-    <li>guild tag: [<a href="https://plancke.io/hypixel/guild/name/Tokyo%20Guild" target="_blank">TOKYO</a>]</li>
-    <li>members: 101</li>
-    <li>level: 13</li>
-    <li>main games: bedwars, skywars, duels</li>
-</ul>
+
+- guild tag: [<a href="https://plancke.io/hypixel/guild/name/Tokyo%20Guild" target="_blank">TOKYO</a>]
+- ![members count](http://144.202.21.98:1337/generate?mode=members)
+- level: 13
+- main games: bedwars, skywars, duels
+
 
 # GUILD LINKS
 
