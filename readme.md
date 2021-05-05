@@ -2,8 +2,6 @@
 # GUILD INFORMATION:
 
 - guild tag: [<a href="https://plancke.io/hypixel/guild/name/Tokyo%20Guild" target="_blank">TOKYO</a>]
-- <img src="http://144.202.21.98:1337/generate?mode=members"></img>
-- level: 13
 - main games: bedwars, skywars, duels
 
 
