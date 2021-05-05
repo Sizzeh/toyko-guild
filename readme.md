@@ -13,16 +13,16 @@
 </ul>
 
 # GUILD RANKS:
-![ranks card](/assets/images/ranks/ranks_1.gif)
-![ranks card](/assets/images/ranks/ranks_2.gif)
+![ranks card](/assets/images/ranks/rank_1.gif)
+![ranks card](/assets/images/ranks/rank_2.gif)
 # GUILD STAFF:
 ![guild staff card](/assets/images/staff/staff_1.gif)
 ![guild staff card](/assets/images/staff/staff_2.gif)
 ![guild staff card](/assets/images/staff/staff_3.gif)
 # APPLICATIONS:
-![questions](/assets/images/applications/questions_1.gif)
-![questions](/assets/images/applications/questions_2.gif)
-![questions](/assets/images/applications/questions_3.gif)
+![questions](/assets/images/applications/question_1.gif)
+![questions](/assets/images/applications/question_2.gif)
+![questions](/assets/images/applications/question_3.gif)
 <ul>
     <li>IGN:</li>
     <li>Discord:</li>
