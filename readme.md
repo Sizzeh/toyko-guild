@@ -1,4 +1,4 @@
-![guild banner](/assets/images/banner/tokyo_banner.gif)
+![guild banner](\assets\images\banner\toyko_banner.gif)
 # GUILD INFORMATION:
 
 - guild tag: [<a href="https://plancke.io/hypixel/guild/name/Tokyo%20Guild" target="_blank">TOKYO</a>]
